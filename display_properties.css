@@ -1,0 +1,16 @@
+#div1{
+	background-color: orange;
+	height: 200px;
+	width: 200px;
+}
+#div2{
+	background-color: pink;
+	height: 200px;
+	width: 200px;
+}
+span{
+	display: block;
+}
+div{
+	display: inline-block;
+}

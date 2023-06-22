@@ -1,0 +1,29 @@
+p{
+/*	font-family: sans-serif;*/
+	font-size: 20px;
+}
+h1{
+	font-size: 40px;
+/*    font-family: sans-serif;*/
+}
+h1,p {
+	 font-family: sans-serif;
+}
+.uppercase{
+	text-transform: uppercase;
+
+}
+.cursive{
+	font-family: cursive;
+}
+/*li h4 {
+	font-family: cursive;
+	text-transform: uppercase;
+}*/
+#blog-desc{
+	color: #314831;
+}
+#blog-title:hover{
+	color: orange;
+}
+

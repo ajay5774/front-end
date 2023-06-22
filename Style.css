@@ -1,0 +1,21 @@
+p{
+	color: brown;
+	font-size: 15px;
+}
+h1{
+	font-size: 40px;
+}
+h4{
+/*	font-size: 25px;*/
+	font-size: medium;
+/*	text-transform: uppercase;*/
+}
+.uppercase{
+	text-transform: uppercase;
+}
+.cursive{
+	font-family: cursive;
+}
+#paradesc{
+	color: #9731cb;
+}
